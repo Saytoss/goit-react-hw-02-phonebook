@@ -1,0 +1,17 @@
+.contactLabel {
+  margin-bottom: 10px;
+  display: block;
+  font-size: 30px;
+}
+.contactInput {
+  height: 20px;
+  margin-left: 14px;
+  font-size: 18px;
+}
+.contactBtn {
+  margin-top: 10px;
+  width: 195px;
+  height: 55px;
+  font-size: 20px;
+  color: black;
+}
